@@ -1,0 +1,13 @@
+# NÚCLEO DE ZEROX
+
+## 🛡️ ¿Qué es esto?
+Esta carpeta contiene los archivos vitales del sistema. Son el motor que hace que todo funcione a bajo nivel.
+Si borras algo aquí, el bot dejará de respirar.
+
+## 📄 Archivos Importantes
+- **entorno_trading.py**: Es el simulador de la realidad donde el bot practica y calcula sus movimientos.
+- **motor_financiero.py**: Se encarga de contar el dinero, calcular beneficios y pérdidas.
+- **servidor_api.js**: Un pequeño servidor en Node.js para que el Python pueda hablar con la página web.
+
+## ⚠️ NO TOCAR
+A menos que seas ingeniero de software, no modifiques nada aquí. Un cambio mal hecho puede romper las matemáticas del bot.

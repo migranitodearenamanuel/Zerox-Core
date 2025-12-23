@@ -1,0 +1,17 @@
+# INTELIGENCIA (EL CEREBRO)
+
+## 🧠 ¿Qué es esto?
+Aquí vive la lógica de decisión del bot. Es donde se decide cuándo comprar y cuándo vender.
+
+## 📄 Archivos Importantes
+- **operador_maestro.py**: El jefe. Este script controla todo el ciclo de trading.
+- **gestor_riesgo.py**: El contable estricto. Decide cuánto dinero apostar en cada operación para no arruinarnos.
+- **supervisor_zerox.py**: El perro guardián. Vigila que el operador maestro no se duerma o se atasque.
+- **ingesta_conocimiento_total.py**: El lector. Lee PDF y noticias para entender el mercado (RAG).
+
+## 🤖 Modelos de IA
+En la carpeta `modelos/` guardamos los "cerebros" descargados (archivos pesados).
+Usamos `minilm_local` para entender el significado del texto (embeddings) sin internet.
+
+## 🔧 Configuración
+El archivo `configuracion.py` define cómo se comportan estos scripts. Si buscas cambiar la agresividad del bot, mira en la configuración maestra en la raíz, que sobrescribe a esta.

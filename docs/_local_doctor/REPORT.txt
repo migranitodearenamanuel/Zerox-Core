@@ -1,0 +1,7 @@
+﻿ROOT: C:\Users\manue\OneDrive\Escritorio\ZEROXBOT\zerox-core
+DATE: 2025-12-16T15:51:12.4947262+01:00
+FOUND electron package.json: C:\Users\manue\OneDrive\Escritorio\ZEROXBOT\zerox-core\node_modules\electron\package.json
+SCRIPTS (electron):
+ - postinstall = node install.js
+FOUND pyproject.toml: C:\Users\manue\OneDrive\Escritorio\ZEROXBOT\zerox-core\node_modules\@electron\node-gyp\gyp\pyproject.toml
+NO python entrypoint found (main/app/run/server/ui/streamlit_app). Mira estructura manual.

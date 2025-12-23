@@ -1,0 +1,5 @@
+﻿DATE: 2025-12-16T15:42:14.0847315+01:00
+ROOT: C:\Users\manue\OneDrive\Escritorio\ZEROXBOT\zerox-core
+PS: 5.1.26100.7462
+KEY FILES:
+OK: C:\Users\manue\OneDrive\Escritorio\ZEROXBOT\zerox-core\ZER0X_local_audit.zip

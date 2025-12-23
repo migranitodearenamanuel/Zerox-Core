@@ -1,0 +1,14 @@
+# INTERFAZ (EL VISUALIZADOR)
+
+## 🖥️ ¿Qué es esto?
+Aquí está el código de la página web que ves cuando lanzas el bot (el Dashboard).
+
+## 📄 Estructura
+- Es una aplicación web moderna (Vite/React).
+- Se conecta al bot mediante un servidor interno.
+- Muestra el gráfico, el dinero y los logs en tiempo real.
+
+## ⚠️ NOTA IMPORTANTE
+Si la página web no carga o se ve en blanco:
+1. Asegúrate de ejecutar `LANZAR_TODO.bat` desde la carpeta principal.
+2. No intentes abrir los archivos `.html` directamente, necesitan el servidor.

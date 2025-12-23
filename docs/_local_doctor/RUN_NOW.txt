@@ -1,0 +1,6 @@
+﻿
+
+# === ARRANQUE ELECTRON ===
+cd "C:\Users\manue\OneDrive\Escritorio\ZEROXBOT\zerox-core\node_modules\electron"
+npm install
+npm run

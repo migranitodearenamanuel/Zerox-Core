@@ -1,0 +1,38 @@
+# ZEROX (Modo Producción 10M) - Guía "Para Tontos"
+
+## 🚀 ¿Qué es esto?
+Este es tu robot de trading definitivo. Ya está configurado para operar con dinero REAL en Bitget Futures.
+No hay simulaciones, no hay juegos. Si lo arrancas, buscará ganar dinero.
+
+## 🟢 ¿Cómo se arranca?
+Simplemente haz doble click en el archivo:
+`LANZAR_TODO.bat`
+
+Esto abrirá:
+1. La interfaz web (centro de control).
+2. El cerebro del bot (que se verá en una ventana negra).
+3. Si falta algún programa (como la IA Ollama), se intentará descargar o abrir solo.
+
+## 🛑 ¿Cómo se para?
+Haz doble click en:
+`PARADA_EMERGENCIA.bat`
+Este script mata todos los procesos de golpe (útil si ves que el bot hace algo que no te gusta).
+
+## 📁 ¿Qué hay en las carpetas?
+- **nucleo/**: El corazón del código. No tocar si no sabes programación.
+- **inteligencia/**: Donde vive la IA (RAG, análisis de riesgo, estrategia).
+- **interfaz/**: El código de la página web que ves.
+- **herramientas/**: Scripts útiles (descargar modelos, diagnósticos).
+- **config_maestra.py**: AQUÍ se configuran cosas importantes como el apalancamiento máximo o los límites de riesgo.
+
+## ⚠️ ADVERTENCIAS
+- El bot opera con **apancamiento**. Eso significa que puedes ganar mucho o perderlo todo rápido.
+- Vigila siempre el "PERRO GUARDIAN" (la ventana negra). Si se cierra sola, es que algo malo ha pasado.
+- Las claves API están en el archivo `.env`. NUNCA se las des a nadie.
+
+## ✨ Características Especiales
+- **Modo Real Blindado**: No opera si detecta que falta saldo o conexión.
+- **Autocuración**: Si falla una librería, intenta reinstalarla sola.
+- **IA Local**: Usa modelos de inteligencia artificial instalados en tu PC, no depende de la nube.
+
+¡Buena suerte en el mercado! 📈

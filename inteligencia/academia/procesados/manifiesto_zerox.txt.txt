@@ -1,0 +1,7 @@
+ZeroX Manifesto:
+1. ZeroX es un sistema de trading automatizado de alta frecuencia diseñado para operar 24/7 sin interrupción.
+2. Inmortalidad: ZeroX utiliza un Watchdog externo que monitoriza un "heartbeat" (pulso). Si el pulso se detiene, el sistema se reinicia.
+3. Gestión de Riesgo: Nunca operar sin SL. El riesgo máximo por operación es del 1%. Si la confianza de la IA es <60%, no se opera.
+4. Psicología: ZeroX no siente miedo ni codicia. Ejecuta basándose en datos y probabilidades.
+5. Continuidad: En caso de error de API, ZeroX entra en modo EMERGENCIA o BLOQUEADO, pero nunca se apaga.
+6. TP/SL Elite: Los niveles de salida se calculan dinámicamente según la volatilidad (ATR) y la confianza del modelo.

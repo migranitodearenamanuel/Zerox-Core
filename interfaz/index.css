@@ -1,0 +1,76 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --color-primary: #ff0033;
+    /* Rojo Neon */
+    --color-accent: #0088ff;
+    /* Azul Neon */
+    --bg-dark: #050505;
+}
+
+body {
+    background-color: var(--bg-dark);
+    color: #e6edf3;
+    font-family: 'Inter', sans-serif;
+    overflow: hidden;
+}
+
+/* Scrollbar personalizada */
+::-webkit-scrollbar {
+    width: 6px;
+}
+
+::-webkit-scrollbar-track {
+    background: #0a0a0a;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #333;
+    border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--color-primary);
+}
+
+/* Animaciones */
+@keyframes scanning {
+    0% {
+        background-position: 0% 0%;
+    }
+
+    100% {
+        background-position: 0% 100%;
+    }
+}
+
+/* ZEROX-CORE BACKGROUND SYSTEM */
+.zerox-bg {
+    background-color: #050505;
+    background-image:
+        /* Red Glow (Top Left) */
+        radial-gradient(circle at 0% 0%, rgba(255, 0, 51, 0.08) 0%, transparent 50%),
+        /* Blue Glow (Bottom Right) */
+        radial-gradient(circle at 100% 100%, rgba(0, 136, 255, 0.08) 0%, transparent 50%),
+        /* Tactical Grid */
+        linear-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+    background-size: 100% 100%, 100% 100%, 40px 40px, 40px 40px;
+    background-position: 0 0, 0 0, -1px -1px, -1px -1px;
+}
+
+/* Scanline Overlay (Optional, keep it subtle) */
+.zerox-bg::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.1) 50%);
+    background-size: 100% 4px;
+    pointer-events: none;
+    z-index: 0;
+}

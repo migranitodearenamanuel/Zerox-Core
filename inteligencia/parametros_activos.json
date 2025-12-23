@@ -1,0 +1,48 @@
+{
+  "version": "2025-12-15_inicial",
+  "timezone": "Europe/Madrid",
+  "daily_loss_soft_pct": 3.0,
+  "daily_loss_hard_pct": 10.0,
+  "cooldown_min": 60,
+  "OBJETIVO_EUR": 10000000,
+  "k_atr_mult": 1.5,
+  "r_reward_mult": 1.0,
+  "riesgo_base_pct": 1.0,
+  "objetivo": {
+    "OBJETIVO_EUR": 10000000,
+    "MODO_OBJETIVO": "NORTH_STAR",
+    "PERFIL_RIESGO": "AGRESIVO_CONTROLADO"
+  },
+  "hitos_objetivo": [
+    1000,
+    5000,
+    10000,
+    25000,
+    50000,
+    100000,
+    250000,
+    500000,
+    1000000,
+    2000000,
+    5000000,
+    10000000
+  ],
+  "riesgo": {
+    "riesgo_min_pct": 0.25,
+    "riesgo_max_pct": 2.0,
+    "utilizacion_riesgo": 1.0,
+    "suavizado_drawdown": true,
+    "dd_reduccion_1": 0.9,
+    "dd_reduccion_2": 0.75,
+    "dd_reduccion_3": 0.5
+  },
+  "apalancamiento": {
+    "leverage_max": 25,
+    "liq_buffer": 0.8
+  },
+  "tpsl": {
+    "rr_min": 1.2,
+    "rr_max": 5.0,
+    "tp_parciales": false
+  }
+}

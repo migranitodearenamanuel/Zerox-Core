@@ -1,0 +1,13 @@
+ts=2025-12-16T21:42:18.835880
+simbolo=DOGE/USDT:USDT
+motivo=PRECISION_SUPERA_RIESGO
+saldo=26.89214339
+min_cost=5.0
+L_sugerido=20
+L_elegido=20
+qty=38.0
+notional=None
+margin_req=None
+max_margin=None
+riesgo_usdt_obj=0.1546298244925
+riesgo_usdt_estimado=0.15504

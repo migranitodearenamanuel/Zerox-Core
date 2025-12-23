@@ -1,0 +1,61 @@
+﻿On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.env
+	.gitignore
+	.gitignore_1
+	KAGGLE_PACK/
+	LANZAR_TODO.bat
+	PARADA_EMERGENCIA.bat
+	REPORTE_FIX_UI.txt
+	REPORTE_PARA_SUPERVISOR.txt
+	RUNBOOK_REAL.md
+	__pycache__/
+	configuracion_total.py
+	conocimiento/
+	datos/
+	depuracion_bitget_v2.py
+	depuracion_bitget_v3.py
+	depuracion_posiciones.py
+	diagnostico_ccxt.py
+	diagnostico_output.txt
+	docs/
+	electron/
+	emergencia_limpieza.py
+	estado_bot.json
+	fuentes_inteligencia.txt
+	generar_auditoria_total.py
+	inteligencia/
+	interfaz/
+	lanzador_autonomo.py
+	legacy/
+	memoria_vectorial/
+	nucleo/
+	package-lock.json
+	package.json
+	pos_info.txt
+	preparar_auditoria.py
+	prueba_blindaje_bitget.py
+	prueba_blindaje_v2.py
+	prueba_chat.py
+	prueba_chat_api.py
+	prueba_combo.py
+	prueba_direct_st.py
+	prueba_embeddings.py
+	prueba_imports.py
+	prueba_request.py
+	pruebas/
+	registro_construccion.txt
+	requisitos.txt
+	salida_depuracion.txt
+	tests/
+	tmp/
+	tools/
+	utilidades/
+	verificar_fix.py
+	vite.config.js
+
+nothing added to commit but untracked files present (use "git add" to track)

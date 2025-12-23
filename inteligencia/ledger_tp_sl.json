@@ -1,0 +1,149 @@
+{
+    "PIPPIN/USDT:USDT": {
+        "entrada_id": "1384931118271856641",
+        "tp_id": "VIRTUAL_TP",
+        "sl_id": "VIRTUAL_SL",
+        "timestamp": 1765919232.1290011,
+        "estado": "ACTIVO"
+    },
+    "SOL/USDT:USDT": {
+        "entrada_id": "1384931204414472200",
+        "tp_id": "VIRTUAL_TP",
+        "sl_id": "VIRTUAL_SL",
+        "timestamp": 1765919252.6577868,
+        "estado": "ACTIVO"
+    },
+    "BEAT/USDT:USDT": {
+        "entrada_id": "1384931395871866882",
+        "tp_id": "VIRTUAL_TP",
+        "sl_id": "VIRTUAL_SL",
+        "timestamp": 1765919298.3105283,
+        "estado": "ACTIVO"
+    },
+    "PTB/USDT:USDT": {
+        "entrada_id": "1384931804967501834",
+        "tp_id": "VIRTUAL_TP",
+        "sl_id": "VIRTUAL_SL",
+        "timestamp": 1765919395.8423111,
+        "estado": "ACTIVO"
+    },
+    "ZEC/USDT:USDT": {
+        "entrada_id": "1384932108672860161",
+        "tp_id": "VIRTUAL_TP",
+        "sl_id": "VIRTUAL_SL",
+        "timestamp": 1765919468.2584748,
+        "estado": "ACTIVO"
+    },
+    "DOGE/USDT:USDT": {
+        "entrada_id": "1384932464370810881",
+        "tp_id": "VIRTUAL_TP",
+        "sl_id": "VIRTUAL_SL",
+        "timestamp": 1765919553.069734,
+        "estado": "ACTIVO"
+    },
+    "XRP/USDT:USDT": {
+        "entrada_id": "1384932603869167617",
+        "tp_id": "VIRTUAL_TP",
+        "sl_id": "VIRTUAL_SL",
+        "timestamp": 1765919586.313455,
+        "estado": "ACTIVO"
+    },
+    "ETH/USDT:USDT": {
+        "entrada_id": "1384933477215535105",
+        "tp_id": "VIRTUAL_TP",
+        "sl_id": "VIRTUAL_SL",
+        "timestamp": 1765919794.5428865,
+        "estado": "ACTIVO"
+    },
+    "SUI/USDT:USDT": {
+        "entrada_id": "1384933864945385475",
+        "tp_id": "VIRTUAL_TP",
+        "sl_id": "VIRTUAL_SL",
+        "timestamp": 1765919886.972714,
+        "estado": "ACTIVO"
+    },
+    "ASTER/USDT:USDT": {
+        "entrada_id": "1384934109217456132",
+        "tp_id": "VIRTUAL_TP",
+        "sl_id": "VIRTUAL_SL",
+        "timestamp": 1765919945.2312994,
+        "estado": "ACTIVO"
+    },
+    "HYPE/USDT:USDT": {
+        "entrada_id": "1384934509005930500",
+        "tp_id": "VIRTUAL_TP",
+        "sl_id": "VIRTUAL_SL",
+        "timestamp": 1765920040.548347,
+        "estado": "ACTIVO"
+    },
+    "BNB/USDT:USDT": {
+        "entrada_id": "1384934805664858115",
+        "tp_id": "VIRTUAL_TP",
+        "sl_id": "VIRTUAL_SL",
+        "timestamp": 1765920111.262079,
+        "estado": "ACTIVO"
+    },
+    "BTC/USDT:USDT": {
+        "entrada_id": "1384934903916429313",
+        "tp_id": "VIRTUAL_TP",
+        "sl_id": "VIRTUAL_SL",
+        "timestamp": 1765920134.6870184,
+        "estado": "ACTIVO"
+    },
+    "PEPE/USDT:USDT": {
+        "entrada_id": "1384935278115454977",
+        "tp_id": "VIRTUAL_TP",
+        "sl_id": "VIRTUAL_SL",
+        "timestamp": 1765920223.9001858,
+        "estado": "ACTIVO"
+    },
+    "LIGHT/USDT:USDT": {
+        "entrada_id": "1384937856609976321",
+        "tp_id": "VIRTUAL_TP",
+        "sl_id": "VIRTUAL_SL",
+        "timestamp": 1765920838.6622686,
+        "estado": "ACTIVO"
+    },
+    "ADA/USDT:USDT": {
+        "entrada_id": "1384938107802648577",
+        "tp_id": "VIRTUAL_TP",
+        "sl_id": "VIRTUAL_SL",
+        "timestamp": 1765920898.5613344,
+        "estado": "ACTIVO"
+    },
+    "ACE/USDT:USDT": {
+        "entrada_id": "1384938371842473985",
+        "tp_id": "VIRTUAL_TP",
+        "sl_id": "VIRTUAL_SL",
+        "timestamp": 1765920961.5142648,
+        "estado": "ACTIVO"
+    },
+    "WLD/USDT:USDT": {
+        "entrada_id": "1384939589981601795",
+        "tp_id": "VIRTUAL_TP",
+        "sl_id": "VIRTUAL_SL",
+        "timestamp": 1765921251.924468,
+        "estado": "ACTIVO"
+    },
+    "FORM/USDT:USDT": {
+        "entrada_id": "1384940567602561025",
+        "tp_id": "VIRTUAL_TP",
+        "sl_id": "VIRTUAL_SL",
+        "timestamp": 1765921485.017446,
+        "estado": "ACTIVO"
+    },
+    "AAVE/USDT:USDT": {
+        "entrada_id": "1384941599883689985",
+        "tp_id": "VIRTUAL_TP",
+        "sl_id": "VIRTUAL_SL",
+        "timestamp": 1765921731.1197183,
+        "estado": "ACTIVO"
+    },
+    "RAVE/USDT:USDT": {
+        "entrada_id": "1384942795528765441",
+        "tp_id": "VIRTUAL_TP",
+        "sl_id": "VIRTUAL_SL",
+        "timestamp": 1765922016.1985261,
+        "estado": "ACTIVO"
+    }
+}

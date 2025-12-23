@@ -1,0 +1,7 @@
+{
+    "TSLAUSDT_UMCBL": {
+        "motivo": "No soporta trading por API (Error 25013)",
+        "fecha": "2025-12-14T16:50:00",
+        "status": "BLOQUEADO_PERMANENTE"
+    }
+}

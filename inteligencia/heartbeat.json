@@ -1,0 +1,1 @@
+{"timestamp": 1765922306.6630716, "timestamp_iso": "2025-12-16T22:58:26.663071", "estado_trading": "INICIANDO", "motivo_estado": "Arranque", "modo_mantenimiento": false, "modo_trading": "PAPER", "ollama": "OFFLINE", "bitget": "FALLO", "offset_ms": -84, "ciclo": 0, "ultima_accion": "Boot", "inicio_paso_ts": 1765922306.66208, "duracion_paso_s": 0.0009915828704833984}

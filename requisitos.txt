@@ -1,0 +1,31 @@
+# --- NUCLEO ESTABLE (Versiones Intermedias Compatibles) ---
+torch==2.2.2
+numpy<2.0.0
+
+# --- IA & MODELOS ---
+transformers==4.39.3
+sentence-transformers==2.7.0
+huggingface-hub==0.23.0
+
+# --- ECOSISTEMA LANGCHAIN ---
+langchain==0.1.16
+langchain-community==0.0.32
+langchain-core==0.1.52
+langchain-text-splitters==0.0.1
+# langchain-huggingface eliminado para usar community embeddings
+
+# --- MEMORIA VECTORIAL ---
+chromadb==0.4.24
+
+# --- LECTURA DE DOCUMENTOS ---
+pypdf==4.2.0
+unstructured==0.13.2
+markdown==3.6
+networkx==3.3
+EbookLib==0.17.1
+beautifulsoup4==4.12.3
+
+# --- SERVIDOR ---
+fastapi==0.110.1
+uvicorn==0.29.0
+python-dotenv==1.0.1

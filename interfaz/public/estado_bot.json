@@ -1,0 +1,664 @@
+{
+  "estado": "ESCANEO ACTIVO \ud83d\udce1",
+  "simbolo": "LINK/USDT:USDT",
+  "precio": 12.932,
+  "progreso_10m": 0.0,
+  "saldo_cuenta": "0.00",
+  "mercado": {
+    "simbolo": "LINK/USDT:USDT",
+    "precio": 12.932,
+    "rsi": 60.894941634241306,
+    "tendencia": "NEUTRA \u26aa",
+    "precios": {
+      "BTC/USDT": 0.29735,
+      "SCAN": 12.932
+    }
+  },
+  "cortex_ia": "\ud83d\udd0d ESCANER NEURONAL: LINK/USDT:USDT\n------------------------\nPRECIO: 12.932\nRSI: 60.89\nVOLUMEN: 3916",
+  "flujo_neuronal": [
+    "[22:58:26] \ud83d\udc41\ufe0f Analizando LINK/USDT:USDT (RSI: 60.9)",
+    "[22:58:26] \ud83d\udce1 Radar de Volumen: 3916"
+  ],
+  "estado_sistema": "ESCANANDO LINK/USDT:USDT (23/29)",
+  "progreso": 75,
+  "posiciones": [
+    {
+      "simbolo": "BNB/USDT",
+      "tipo": "LARGO",
+      "pnl": "0.02",
+      "entrada": 869.87,
+      "marca": 872.07,
+      "tp": 911.29,
+      "sl": 856.03,
+      "analisis": {
+        "tecnico": "Posici\u00f3n Real Monitoreada.",
+        "psicologia": "Disciplina f\u00e9rrea.",
+        "fuentes": "Bitget API"
+      }
+    },
+    {
+      "simbolo": "ADA/USDT",
+      "tipo": "CORTO",
+      "pnl": "0.01",
+      "entrada": 0.3868,
+      "marca": 0.3864,
+      "tp": 0.378,
+      "sl": 0.39192,
+      "analisis": {
+        "tecnico": "Posici\u00f3n Real Monitoreada.",
+        "psicologia": "Disciplina f\u00e9rrea.",
+        "fuentes": "Bitget API"
+      }
+    },
+    {
+      "simbolo": "ACE/USDT",
+      "tipo": "CORTO",
+      "pnl": "-0.02",
+      "entrada": 0.2477,
+      "marca": 0.2488,
+      "tp": 0.19359,
+      "sl": 0.27812,
+      "analisis": {
+        "tecnico": "Posici\u00f3n Real Monitoreada.",
+        "psicologia": "Disciplina f\u00e9rrea.",
+        "fuentes": "Bitget API"
+      }
+    },
+    {
+      "simbolo": "HYPE/USDT",
+      "tipo": "CORTO",
+      "pnl": "-0.02",
+      "entrada": 26.687,
+      "marca": 26.818,
+      "tp": 25.806,
+      "sl": 27.087,
+      "analisis": {
+        "tecnico": "Posici\u00f3n Real Monitoreada.",
+        "psicologia": "Disciplina f\u00e9rrea.",
+        "fuentes": "Bitget API"
+      }
+    },
+    {
+      "simbolo": "LIGHT/USDT",
+      "tipo": "LARGO",
+      "pnl": "0.02",
+      "entrada": 1.5022,
+      "marca": 1.5084,
+      "tp": 2.001,
+      "sl": 1.201,
+      "analisis": {
+        "tecnico": "Posici\u00f3n Real Monitoreada.",
+        "psicologia": "Disciplina f\u00e9rrea.",
+        "fuentes": "Bitget API"
+      }
+    },
+    {
+      "simbolo": "WLD/USDT",
+      "tipo": "LARGO",
+      "pnl": "0.01",
+      "entrada": 0.5277,
+      "marca": 0.5283,
+      "tp": 0.54769,
+      "sl": 0.5213,
+      "analisis": {
+        "tecnico": "Posici\u00f3n Real Monitoreada.",
+        "psicologia": "Disciplina f\u00e9rrea.",
+        "fuentes": "Bitget API"
+      }
+    },
+    {
+      "simbolo": "PEPE/USDT",
+      "tipo": "LARGO",
+      "pnl": "0.01",
+      "entrada": 4.0952e-06,
+      "marca": 4.1025e-06,
+      "tp": 4.3e-06,
+      "sl": 4e-06,
+      "analisis": {
+        "tecnico": "Posici\u00f3n Real Monitoreada.",
+        "psicologia": "Disciplina f\u00e9rrea.",
+        "fuentes": "Bitget API"
+      }
+    },
+    {
+      "simbolo": "FORM/USDT",
+      "tipo": "LARGO",
+      "pnl": "0.00",
+      "entrada": 0.426,
+      "marca": 0.4262,
+      "tp": 0.58417,
+      "sl": 0.34104,
+      "analisis": {
+        "tecnico": "Posici\u00f3n Real Monitoreada.",
+        "psicologia": "Disciplina f\u00e9rrea.",
+        "fuentes": "Bitget API"
+      }
+    },
+    {
+      "simbolo": "ASTER/USDT",
+      "tipo": "CORTO",
+      "pnl": "-0.05",
+      "entrada": 0.7802,
+      "marca": 0.787,
+      "tp": 0.75445,
+      "sl": 0.7919,
+      "analisis": {
+        "tecnico": "Posici\u00f3n Real Monitoreada.",
+        "psicologia": "Disciplina f\u00e9rrea.",
+        "fuentes": "Bitget API"
+      }
+    },
+    {
+      "simbolo": "AAVE/USDT",
+      "tipo": "LARGO",
+      "pnl": "-0.03",
+      "entrada": 186.1,
+      "marca": 185.76,
+      "tp": 193.6,
+      "sl": 183.54,
+      "analisis": {
+        "tecnico": "Posici\u00f3n Real Monitoreada.",
+        "psicologia": "Disciplina f\u00e9rrea.",
+        "fuentes": "Bitget API"
+      }
+    },
+    {
+      "simbolo": "SUI/USDT",
+      "tipo": "LARGO",
+      "pnl": "-0.01",
+      "entrada": 1.5122,
+      "marca": 1.5102,
+      "tp": 1.562,
+      "sl": 1.49,
+      "analisis": {
+        "tecnico": "Posici\u00f3n Real Monitoreada.",
+        "psicologia": "Disciplina f\u00e9rrea.",
+        "fuentes": "Bitget API"
+      }
+    },
+    {
+      "simbolo": "RAVE/USDT",
+      "tipo": "LARGO",
+      "pnl": "-0.04",
+      "entrada": 0.30034,
+      "marca": 0.29795,
+      "tp": 0.37786,
+      "sl": 0.2503,
+      "analisis": {
+        "tecnico": "Posici\u00f3n Real Monitoreada.",
+        "psicologia": "Disciplina f\u00e9rrea.",
+        "fuentes": "Bitget API"
+      }
+    },
+    {
+      "simbolo": "BTC/USDT",
+      "tipo": "CORTO",
+      "pnl": "-0.01",
+      "entrada": 87696.0,
+      "marca": 87745.7,
+      "tp": 86070.1,
+      "sl": 88272.55,
+      "analisis": {
+        "tecnico": "Posici\u00f3n Real Monitoreada.",
+        "psicologia": "Disciplina f\u00e9rrea.",
+        "fuentes": "Bitget API"
+      }
+    }
+  ],
+  "pensamientos": [
+    {
+      "id": 1765922290552,
+      "timestamp": "22:58:10",
+      "moneda": "AAVE/USDT:USDT",
+      "accion": "COMPRA",
+      "razon": "RSI 52.89473684210529, Soporte X, Resistencia Y",
+      "mensaje": "[AAVE/USDT:USDT] Codicia"
+    },
+    {
+      "id": 1765922273310,
+      "timestamp": "22:57:53",
+      "moneda": "ACE/USDT:USDT",
+      "accion": "VENTA",
+      "razon": "RSI 42.60869565217386, Soporte X, Resistencia Y",
+      "mensaje": "[ACE/USDT:USDT] Miedo"
+    },
+    {
+      "id": 1765922257847,
+      "timestamp": "22:57:37",
+      "moneda": "WLD/USDT:USDT",
+      "accion": "COMPRA",
+      "razon": "RSI 54.0229885057473, Soporte X",
+      "mensaje": "[WLD/USDT:USDT] Calma"
+    },
+    {
+      "id": 1765922244183,
+      "timestamp": "22:57:24",
+      "moneda": "FORM/USDT:USDT",
+      "accion": "COMPRA",
+      "razon": "RSI 64.86842105263153, Soporte X",
+      "mensaje": "[FORM/USDT:USDT] Miedo"
+    },
+    {
+      "id": 1765922227167,
+      "timestamp": "22:57:07",
+      "moneda": "PEPE/USDT:USDT",
+      "accion": "COMPRA",
+      "razon": "RSI 55.79710144927537, Soporte X",
+      "mensaje": "[PEPE/USDT:USDT] Codicia"
+    },
+    {
+      "id": 1765922213671,
+      "timestamp": "22:56:53",
+      "moneda": "BNB/USDT:USDT",
+      "accion": "ESPERAR",
+      "razon": "RSI 60.23329798515343, Soporte X, Resistencia Y",
+      "mensaje": "[BNB/USDT:USDT] Miedo"
+    },
+    {
+      "id": 1765922199998,
+      "timestamp": "22:56:39",
+      "moneda": "HYPE/USDT:USDT",
+      "accion": "VENTA",
+      "razon": "RSI 52.7340129749768, Soporte X, Resistencia Y",
+      "mensaje": "[HYPE/USDT:USDT] Miedo"
+    },
+    {
+      "id": 1765922186520,
+      "timestamp": "22:56:26",
+      "moneda": "ASTER/USDT:USDT",
+      "accion": "VENTA",
+      "razon": "RSI 54.273504273504294, Soporte X, Resistencia Y",
+      "mensaje": "[ASTER/USDT:USDT] Miedo"
+    },
+    {
+      "id": 1765922172858,
+      "timestamp": "22:56:12",
+      "moneda": "LIGHT/USDT:USDT",
+      "accion": "COMPRA",
+      "razon": "RSI 40.05515339538089, Soporte X, Resistencia Y",
+      "mensaje": "[LIGHT/USDT:USDT] Calma"
+    },
+    {
+      "id": 1765922159221,
+      "timestamp": "22:55:59",
+      "moneda": "DOGE/USDT:USDT",
+      "accion": "COMPRA",
+      "razon": "RSI 58.33333333333371, Soporte X",
+      "mensaje": "[DOGE/USDT:USDT] Codicia"
+    },
+    {
+      "id": 1765922145825,
+      "timestamp": "22:55:45",
+      "moneda": "ZEC/USDT:USDT",
+      "accion": "ESPERAR",
+      "razon": "RSI 64.90503715937245, Soporte X",
+      "mensaje": "[ZEC/USDT:USDT] Miedo"
+    },
+    {
+      "id": 1765922132450,
+      "timestamp": "22:55:32",
+      "moneda": "SUI/USDT:USDT",
+      "accion": "COMPRA",
+      "razon": "RSI 58.36575875486381, Soporte X, Resistencia Y",
+      "mensaje": "[SUI/USDT:USDT] Miedo"
+    },
+    {
+      "id": 1765922118788,
+      "timestamp": "22:55:18",
+      "moneda": "PTB/USDT:USDT",
+      "accion": "VENTA",
+      "razon": "RSI 47.570621468926575, Soporte X",
+      "mensaje": "[PTB/USDT:USDT] Miedo"
+    },
+    {
+      "id": 1765922105319,
+      "timestamp": "22:55:05",
+      "moneda": "BEAT/USDT:USDT",
+      "accion": "COMPRA",
+      "razon": "RSI 62.38852774964883, Soporte X, Resistencia Y",
+      "mensaje": "[BEAT/USDT:USDT] Miedo"
+    },
+    {
+      "id": 1765922091818,
+      "timestamp": "22:54:51",
+      "moneda": "PIPPIN/USDT:USDT",
+      "accion": "COMPRA",
+      "razon": "RSI 58.65869605828508, Soporte X",
+      "mensaje": "[PIPPIN/USDT:USDT] Miedo"
+    },
+    {
+      "id": 1765922078308,
+      "timestamp": "22:54:38",
+      "moneda": "XRP/USDT:USDT",
+      "accion": "VENTA",
+      "razon": "RSI 56.63999999999996, Soporte X, Resistencia Y",
+      "mensaje": "[XRP/USDT:USDT] Miedo"
+    },
+    {
+      "id": 1765922064978,
+      "timestamp": "22:54:24",
+      "moneda": "SOL/USDT:USDT",
+      "accion": "ESPERAR",
+      "razon": "RSI 64.88279522335229, Soporte X",
+      "mensaje": "[SOL/USDT:USDT] Miedo"
+    },
+    {
+      "id": 1765922051515,
+      "timestamp": "22:54:11",
+      "moneda": "ETH/USDT:USDT",
+      "accion": "COMPRA",
+      "razon": "RSI 59.31615460852331, Soporte X, Resistencia Y",
+      "mensaje": "[ETH/USDT:USDT] Codicia"
+    },
+    {
+      "id": 1765922037949,
+      "timestamp": "22:53:57",
+      "moneda": "BTC/USDT:USDT",
+      "accion": "COMPRA",
+      "razon": "RSI 58.9014987438274, Soporte X, Resistencia Y",
+      "mensaje": "[BTC/USDT:USDT] Codicia"
+    },
+    {
+      "id": 1765922012886,
+      "timestamp": "22:53:32",
+      "moneda": "RAVE/USDT:USDT",
+      "accion": "COMPRA",
+      "razon": "RSI 62.87, Soporte X, Resistencia Y",
+      "mensaje": "[RAVE/USDT:USDT] Miedo"
+    }
+  ],
+  "razonamiento_ia": "[LONG] Motor determinista 100%: MACD alcista (hist>0) | Divergencia RSI alcista | Patr\u00f3n TRIPLE_SUELO | Confluencia Fibonacci 0.786 | IA sugiere COMPRA (80%): RSI 52.89473684210529, Soporte X, Resistencia Y",
+  "automejora": "Modo Aprendizaje Activo: Analizando operaciones...",
+  "ultimas_lecciones": [
+    "Modo Aprendizaje Activo: Analizando operaciones...",
+    "La disciplina es la clave del \u00e9xito."
+  ],
+  "pendientes": [
+    {
+      "id": "tp_BNB/USDT_1765921012",
+      "simbolo": "BNB/USDT",
+      "simbolo_trading": "BNB/USDT:USDT",
+      "lado": "LARGO",
+      "tipo": "TP",
+      "precio_gatillo": 886.8325,
+      "precio_actual": 872.07,
+      "entrada": 869.87
+    },
+    {
+      "id": "sl_BNB/USDT_1765921012",
+      "simbolo": "BNB/USDT",
+      "simbolo_trading": "BNB/USDT:USDT",
+      "lado": "LARGO",
+      "tipo": "SL",
+      "precio_gatillo": 856.822,
+      "precio_actual": 872.07,
+      "entrada": 869.87
+    },
+    {
+      "id": "tp_ADA/USDT_1765921013",
+      "simbolo": "ADA/USDT",
+      "simbolo_trading": "ADA/USDT:USDT",
+      "lado": "CORTO",
+      "tipo": "TP",
+      "precio_gatillo": 0.3793,
+      "precio_actual": 0.3864,
+      "entrada": 0.3868
+    },
+    {
+      "id": "sl_ADA/USDT_1765921013",
+      "simbolo": "ADA/USDT",
+      "simbolo_trading": "ADA/USDT:USDT",
+      "lado": "CORTO",
+      "tipo": "SL",
+      "precio_gatillo": 0.3926,
+      "precio_actual": 0.3864,
+      "entrada": 0.3868
+    },
+    {
+      "id": "tp_ACE/USDT_1765921014",
+      "simbolo": "ACE/USDT",
+      "simbolo_trading": "ACE/USDT:USDT",
+      "lado": "CORTO",
+      "tipo": "TP",
+      "precio_gatillo": 0.2429,
+      "precio_actual": 0.2488,
+      "entrada": 0.2477
+    },
+    {
+      "id": "sl_ACE/USDT_1765921014",
+      "simbolo": "ACE/USDT",
+      "simbolo_trading": "ACE/USDT:USDT",
+      "lado": "CORTO",
+      "tipo": "SL",
+      "precio_gatillo": 0.2514,
+      "precio_actual": 0.2488,
+      "entrada": 0.2477
+    },
+    {
+      "id": "tp_HYPE/USDT_1765921015",
+      "simbolo": "HYPE/USDT",
+      "simbolo_trading": "HYPE/USDT:USDT",
+      "lado": "CORTO",
+      "tipo": "TP",
+      "precio_gatillo": 26.1666,
+      "precio_actual": 26.818,
+      "entrada": 26.687
+    },
+    {
+      "id": "sl_HYPE/USDT_1765921015",
+      "simbolo": "HYPE/USDT",
+      "simbolo_trading": "HYPE/USDT:USDT",
+      "lado": "CORTO",
+      "tipo": "SL",
+      "precio_gatillo": 27.0873,
+      "precio_actual": 26.818,
+      "entrada": 26.687
+    },
+    {
+      "id": "tp_LIGHT/USDT_1765921017",
+      "simbolo": "LIGHT/USDT",
+      "simbolo_trading": "LIGHT/USDT:USDT",
+      "lado": "LARGO",
+      "tipo": "TP",
+      "precio_gatillo": 1.5315,
+      "precio_actual": 1.5084,
+      "entrada": 1.5022
+    },
+    {
+      "id": "sl_LIGHT/USDT_1765921017",
+      "simbolo": "LIGHT/USDT",
+      "simbolo_trading": "LIGHT/USDT:USDT",
+      "lado": "LARGO",
+      "tipo": "SL",
+      "precio_gatillo": 1.4797,
+      "precio_actual": 1.5084,
+      "entrada": 1.5022
+    },
+    {
+      "id": "tp_ETH/USDT_1765921018",
+      "simbolo": "ETH/USDT",
+      "simbolo_trading": "ETH/USDT:USDT",
+      "lado": "LARGO",
+      "tipo": "TP",
+      "precio_gatillo": 2999.1039,
+      "precio_actual": 2954.99,
+      "entrada": 2941.74
+    },
+    {
+      "id": "sl_ETH/USDT_1765921018",
+      "simbolo": "ETH/USDT",
+      "simbolo_trading": "ETH/USDT:USDT",
+      "lado": "LARGO",
+      "tipo": "SL",
+      "precio_gatillo": 2897.6139,
+      "precio_actual": 2954.99,
+      "entrada": 2941.74
+    },
+    {
+      "id": "tp_PEPE/USDT_1765921019",
+      "simbolo": "PEPE/USDT",
+      "simbolo_trading": "PEPE/USDT:USDT",
+      "lado": "LARGO",
+      "tipo": "TP",
+      "precio_gatillo": 0.0,
+      "precio_actual": 4.1025e-06,
+      "entrada": 4.0952e-06
+    },
+    {
+      "id": "sl_PEPE/USDT_1765921019",
+      "simbolo": "PEPE/USDT",
+      "simbolo_trading": "PEPE/USDT:USDT",
+      "lado": "LARGO",
+      "tipo": "SL",
+      "precio_gatillo": 0.0,
+      "precio_actual": 4.1025e-06,
+      "entrada": 4.0952e-06
+    },
+    {
+      "id": "tp_ASTER/USDT_1765921020",
+      "simbolo": "ASTER/USDT",
+      "simbolo_trading": "ASTER/USDT:USDT",
+      "lado": "CORTO",
+      "tipo": "TP",
+      "precio_gatillo": 0.765,
+      "precio_actual": 0.787,
+      "entrada": 0.7802
+    },
+    {
+      "id": "sl_ASTER/USDT_1765921020",
+      "simbolo": "ASTER/USDT",
+      "simbolo_trading": "ASTER/USDT:USDT",
+      "lado": "CORTO",
+      "tipo": "SL",
+      "precio_gatillo": 0.7919,
+      "precio_actual": 0.787,
+      "entrada": 0.7802
+    },
+    {
+      "id": "tp_SUI/USDT_1765921022",
+      "simbolo": "SUI/USDT",
+      "simbolo_trading": "SUI/USDT:USDT",
+      "lado": "LARGO",
+      "tipo": "TP",
+      "precio_gatillo": 1.5417,
+      "precio_actual": 1.5102,
+      "entrada": 1.5122
+    },
+    {
+      "id": "sl_SUI/USDT_1765921022",
+      "simbolo": "SUI/USDT",
+      "simbolo_trading": "SUI/USDT:USDT",
+      "lado": "LARGO",
+      "tipo": "SL",
+      "precio_gatillo": 1.4895,
+      "precio_actual": 1.5102,
+      "entrada": 1.5122
+    },
+    {
+      "id": "tp_BTC/USDT_1765921023",
+      "simbolo": "BTC/USDT",
+      "simbolo_trading": "BTC/USDT:USDT",
+      "lado": "CORTO",
+      "tipo": "TP",
+      "precio_gatillo": 85985.928,
+      "precio_actual": 87745.7,
+      "entrada": 87696.0
+    },
+    {
+      "id": "sl_BTC/USDT_1765921023",
+      "simbolo": "BTC/USDT",
+      "simbolo_trading": "BTC/USDT:USDT",
+      "lado": "CORTO",
+      "tipo": "SL",
+      "precio_gatillo": 89011.44,
+      "precio_actual": 87745.7,
+      "entrada": 87696.0
+    },
+    {
+      "id": "tp_WLD/USDT_1765921255",
+      "simbolo": "WLD/USDT",
+      "simbolo_trading": "WLD/USDT:USDT",
+      "lado": "LARGO",
+      "tipo": "TP",
+      "precio_gatillo": 0.538,
+      "precio_actual": 0.5283,
+      "entrada": 0.5277
+    },
+    {
+      "id": "sl_WLD/USDT_1765921255",
+      "simbolo": "WLD/USDT",
+      "simbolo_trading": "WLD/USDT:USDT",
+      "lado": "LARGO",
+      "tipo": "SL",
+      "precio_gatillo": 0.5198,
+      "precio_actual": 0.5283,
+      "entrada": 0.5277
+    },
+    {
+      "id": "tp_FORM/USDT_1765921490",
+      "simbolo": "FORM/USDT",
+      "simbolo_trading": "FORM/USDT:USDT",
+      "lado": "LARGO",
+      "tipo": "TP",
+      "precio_gatillo": 0.4343,
+      "precio_actual": 0.4262,
+      "entrada": 0.426
+    },
+    {
+      "id": "sl_FORM/USDT_1765921490",
+      "simbolo": "FORM/USDT",
+      "simbolo_trading": "FORM/USDT:USDT",
+      "lado": "LARGO",
+      "tipo": "SL",
+      "precio_gatillo": 0.4196,
+      "precio_actual": 0.4262,
+      "entrada": 0.426
+    },
+    {
+      "id": "tp_AAVE/USDT_1765921737",
+      "simbolo": "AAVE/USDT",
+      "simbolo_trading": "AAVE/USDT:USDT",
+      "lado": "LARGO",
+      "tipo": "TP",
+      "precio_gatillo": 189.7289,
+      "precio_actual": 185.76,
+      "entrada": 186.1
+    },
+    {
+      "id": "sl_AAVE/USDT_1765921737",
+      "simbolo": "AAVE/USDT",
+      "simbolo_trading": "AAVE/USDT:USDT",
+      "lado": "LARGO",
+      "tipo": "SL",
+      "precio_gatillo": 183.3085,
+      "precio_actual": 185.76,
+      "entrada": 186.1
+    },
+    {
+      "id": "tp_RAVE/USDT_1765922024",
+      "simbolo": "RAVE/USDT",
+      "simbolo_trading": "RAVE/USDT:USDT",
+      "lado": "LARGO",
+      "tipo": "TP",
+      "precio_gatillo": 0.3062,
+      "precio_actual": 0.29795,
+      "entrada": 0.30034
+    },
+    {
+      "id": "sl_RAVE/USDT_1765922024",
+      "simbolo": "RAVE/USDT",
+      "simbolo_trading": "RAVE/USDT:USDT",
+      "lado": "LARGO",
+      "tipo": "SL",
+      "precio_gatillo": 0.2958,
+      "precio_actual": 0.29795,
+      "entrada": 0.30034
+    }
+  ],
+  "mensaje_error": "",
+  "confianza_ia": "100%",
+  "heartbeat": 1765922016.5406134,
+  "color_estado": "verde",
+  "cerebro_info": "LOCAL (Llama 3.1)",
+  "precios": {}
+}

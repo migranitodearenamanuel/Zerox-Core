@@ -1,0 +1,170 @@
+{
+    "DOGE/USDT:USDT": {
+        "symbol": "DOGE/USDT:USDT",
+        "side": "long",
+        "tp": 0.14041,
+        "sl": 0.12819,
+        "cantidad": 38.0,
+        "updated_at": "2025-12-16T22:12:32.066334"
+    },
+    "SOL/USDT:USDT": {
+        "symbol": "SOL/USDT:USDT",
+        "side": "long",
+        "tp": 132.37,
+        "sl": 126.22,
+        "cantidad": 0.1,
+        "updated_at": "2025-12-16T22:08:34.552385"
+    },
+    "PTB/USDT:USDT": {
+        "symbol": "PTB/USDT:USDT",
+        "side": "short",
+        "tp": 0.0042801,
+        "sl": 0.0069571,
+        "cantidad": 814.0,
+        "updated_at": "2025-12-16T22:09:54.837900"
+    },
+    "ZEC/USDT:USDT": {
+        "symbol": "ZEC/USDT:USDT",
+        "side": "long",
+        "tp": 473.36,
+        "sl": 375.5,
+        "cantidad": 0.013,
+        "updated_at": "2025-12-16T22:11:07.255217"
+    },
+    "PIPPIN/USDT:USDT": {
+        "symbol": "PIPPIN/USDT:USDT",
+        "side": "short",
+        "tp": 0.3208,
+        "sl": 0.33673,
+        "cantidad": 16.0,
+        "updated_at": "2025-12-16T22:11:45.252804"
+    },
+    "XRP/USDT:USDT": {
+        "symbol": "XRP/USDT:USDT",
+        "side": "short",
+        "tp": 1.874,
+        "sl": 1.951,
+        "cantidad": 4.0,
+        "updated_at": "2025-12-16T22:13:05.311185"
+    },
+    "BEAT/USDT:USDT": {
+        "symbol": "BEAT/USDT:USDT",
+        "side": "long",
+        "tp": 1.9,
+        "sl": 1.811,
+        "cantidad": 3.0,
+        "updated_at": "2025-12-16T22:15:37.319764"
+    },
+    "ETH/USDT:USDT": {
+        "symbol": "ETH/USDT:USDT",
+        "side": "long",
+        "tp": 3137.01,
+        "sl": 2879.19,
+        "cantidad": 0.01,
+        "updated_at": "2025-12-16T22:16:33.539545"
+    },
+    "SUI/USDT:USDT": {
+        "symbol": "SUI/USDT:USDT",
+        "side": "long",
+        "tp": 1.562,
+        "sl": 1.49,
+        "cantidad": 3.4,
+        "updated_at": "2025-12-16T22:18:06.195705"
+    },
+    "ASTER/USDT:USDT": {
+        "symbol": "ASTER/USDT:USDT",
+        "side": "short",
+        "tp": 0.75445,
+        "sl": 0.7919,
+        "cantidad": 7.0,
+        "updated_at": "2025-12-16T22:19:04.659801"
+    },
+    "HYPE/USDT:USDT": {
+        "symbol": "HYPE/USDT:USDT",
+        "side": "short",
+        "tp": 25.806,
+        "sl": 27.087,
+        "cantidad": 0.19,
+        "updated_at": "2025-12-16T22:20:39.647242"
+    },
+    "BNB/USDT:USDT": {
+        "symbol": "BNB/USDT:USDT",
+        "side": "long",
+        "tp": 911.29,
+        "sl": 856.03,
+        "cantidad": 0.01,
+        "updated_at": "2025-12-16T22:21:50.258043"
+    },
+    "BTC/USDT:USDT": {
+        "symbol": "BTC/USDT:USDT",
+        "side": "short",
+        "tp": 86070.1,
+        "sl": 88272.55,
+        "cantidad": 0.0002,
+        "updated_at": "2025-12-16T22:22:13.682862"
+    },
+    "PEPE/USDT:USDT": {
+        "symbol": "PEPE/USDT:USDT",
+        "side": "long",
+        "tp": 4.3e-06,
+        "sl": 4e-06,
+        "cantidad": 1237000.0,
+        "updated_at": "2025-12-16T22:23:42.895653"
+    },
+    "LIGHT/USDT:USDT": {
+        "symbol": "LIGHT/USDT:USDT",
+        "side": "long",
+        "tp": 2.001,
+        "sl": 1.201,
+        "cantidad": 4.0,
+        "updated_at": "2025-12-16T22:33:57.658974"
+    },
+    "ADA/USDT:USDT": {
+        "symbol": "ADA/USDT:USDT",
+        "side": "short",
+        "tp": 0.378,
+        "sl": 0.39192,
+        "cantidad": 20.0,
+        "updated_at": "2025-12-16T22:34:57.558538"
+    },
+    "ACE/USDT:USDT": {
+        "symbol": "ACE/USDT:USDT",
+        "side": "short",
+        "tp": 0.19359,
+        "sl": 0.27812,
+        "cantidad": 20.18,
+        "updated_at": "2025-12-16T22:36:00.510239"
+    },
+    "WLD/USDT:USDT": {
+        "symbol": "WLD/USDT:USDT",
+        "side": "long",
+        "tp": 0.54769,
+        "sl": 0.5213,
+        "cantidad": 15.0,
+        "updated_at": "2025-12-16T22:40:50.920858"
+    },
+    "FORM/USDT:USDT": {
+        "symbol": "FORM/USDT:USDT",
+        "side": "long",
+        "tp": 0.58417,
+        "sl": 0.34104,
+        "cantidad": 12.0,
+        "updated_at": "2025-12-16T22:44:44.011738"
+    },
+    "AAVE/USDT:USDT": {
+        "symbol": "AAVE/USDT:USDT",
+        "side": "long",
+        "tp": 193.6,
+        "sl": 183.54,
+        "cantidad": 0.1,
+        "updated_at": "2025-12-16T22:48:50.115883"
+    },
+    "RAVE/USDT:USDT": {
+        "symbol": "RAVE/USDT:USDT",
+        "side": "long",
+        "tp": 0.37786,
+        "sl": 0.2503,
+        "cantidad": 17.0,
+        "updated_at": "2025-12-16T22:53:35.194368"
+    }
+}

@@ -1,0 +1,18 @@
+{
+  "version": "v3",
+  "embedding_provider": "OLLAMA",
+  "embedding_model": "nomic-embed-text",
+  "embedding_dim": 768,
+  "chunk_tokens": 900,
+  "overlap_tokens": 150,
+  "docs_indexados": {
+    "conocimiento\\00017.pdf": {
+      "hash": "37f5a8ec96fe897ac938c1a5cd0f68b3",
+      "chunks": 84,
+      "fecha": "2025-12-17T00:43:32.934369"
+    }
+  },
+  "chunks_totales": 84,
+  "docs_totales": 1,
+  "ultima_actualizacion": "2025-12-17T00:43:32.934369"
+}

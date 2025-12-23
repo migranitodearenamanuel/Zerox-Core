@@ -1,0 +1,13 @@
+# HERRAMIENTAS DE MANTENIMIENTO
+
+## 🛠️ ¿Qué es esto?
+Aquí están los mecánicos del bot. Scripts que arreglan cosas, descargan actualizaciones o limpian basura.
+
+## 📄 Archivos Importantes
+- **descargar_modelos_fuerza.py**: Usado para bajar la inteligencia artificial a la fuerza si la descarga normal falla.
+- **limpieza_emergencia.py**: El script que ejecuta el botón "HARD RESET". Borra caché y archivos temporales para dejar el bot como nuevo.
+- **verificar_saldo_real.py**: Un script simple para comprobar si tu API Key funciona y cuánto dinero tienes en Bitget.
+
+## 💡 ¿Cómo usarlos?
+La mayoría de estos scripts se ejecutan solos cuando hacen falta.
+Pero si tienes problemas, puedes hacer doble click en ellos (o ejecutarlos desde consola) para diagnosticar errores.

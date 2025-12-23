@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2025-12-15T19:02:08.227219",
+    "metrics": null,
+    "params": {
+      "riesgo_base_pct": 1.0,
+      "k_atr_mult": 1.5,
+      "r_reward_mult": 1.0
+    }
+  }
+]

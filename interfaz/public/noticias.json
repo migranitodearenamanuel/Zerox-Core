@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "edicion": "16/12/2025 22:36",
+    "estado": "ONLINE"
+  },
+  "noticias": [
+    {
+      "titulo": "Exodus se une a la carrera de las monedas estables con el dólar digital respaldado por MoonPay",
+      "resumen": "...",
+      "link": "https://www.coindesk.com/business/2025/12/16/exodus-joins-stablecoin-race-with-moonpay-backed-digital-dollar",
+      "fuente": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "fecha": "Tue, 16 Dec 2025 21:25:00 +0000"
+    },
+    {
+      "titulo": "La tecnología de conocimiento cero es la clave para hacer Bitcoin a prueba de cuántica",
+      "resumen": "...",
+      "link": "https://www.coindesk.com/opinion/2025/12/16/zero-knowledge-tech-is-the-key-to-quantum-proofing-bitcoin",
+      "fuente": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "fecha": "Tue, 16 Dec 2025 20:45:46 +0000"
+    },
+    {
+      "titulo": "El enorme rendimiento inferior de Bitcoin frente a las acciones en el cuarto trimestre es un buen augurio para enero, dice Lunde de K33",
+      "resumen": "...",
+      "link": "https://www.coindesk.com/markets/2025/12/16/bitcoin-s-massive-underperformance-to-stocks-in-q4-bodes-well-for-january-says-k33-s-lunde",
+      "fuente": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "fecha": "Tue, 16 Dec 2025 20:41:24 +0000"
+    },
+    {
+      "titulo": "RedotPay recauda 107 millones de dólares Serie B liderada por Goodwater para pagos con monedas estables",
+      "resumen": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"RedotPay raises $107M Series...",
+      "link": "https://cointelegraph.com/news/redotpay-107m-seriesb-goodwater-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "fuente": "Cointelegraph.com News",
+      "fecha": "Tue, 16 Dec 2025 21:09:43 +0000"
+    },
+    {
+      "titulo": "El senador estadounidense hace sonar la alarma sobre DeFi y cita PancakeSwap en medio del retraso en la estructura del mercado",
+      "resumen": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US senator sounds alarm on D...",
+      "link": "https://cointelegraph.com/news/pancakeswap-elizabeth-warren-concerns-market-structure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "fuente": "Cointelegraph.com News",
+      "fecha": "Tue, 16 Dec 2025 20:40:00 +0000"
+    },
+    {
+      "titulo": "El tesoro de Bitcoin, Kindly MD, se enfrenta a una posible exclusión de la lista tras el aviso de precios del Nasdaq",
+      "resumen": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin treasury Kindly MD f...",
+      "link": "https://cointelegraph.com/news/bitcoin-treasury-kindly-md-nasdaq-price-notice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "fuente": "Cointelegraph.com News",
+      "fecha": "Tue, 16 Dec 2025 20:01:27 +0000"
+    },
+    {
+      "titulo": "Elizabeth Warren hace sonar la alarma sobre los acuerdos criptográficos de Trump y PancakeSwap",
+      "resumen": "Senator Elizabeth Warren is seeking answers on what she views as the potential national security ris...",
+      "link": "https://decrypt.co/352606/elizabeth-warren-sounds-alarm-trump-crypto-dealings-pancakeswap",
+      "fuente": "Decrypt",
+      "fecha": "Tue, 16 Dec 2025 21:22:37 +0000"
+    },
+    {
+      "titulo": "Tether invierte en una startup de criptomonedas que impulsa el uso de monedas estables a través de Bitcoin Lightning Network",
+      "resumen": "USDT stablecoin issuer Tether co-led an $8 million funding round for Speed, which is building via th...",
+      "link": "https://decrypt.co/352588/tether-invests-crypto-startup-stablecoin-bitcoin-lightning-network",
+      "fuente": "Decrypt",
+      "fecha": "Tue, 16 Dec 2025 19:51:49 +0000"
+    },
+    {
+      "titulo": "El protocolo de préstamos criptográficos Aave dice que la SEC ha finalizado una investigación de 4 años: 'DeFi ganará'",
+      "resumen": "Decentralized finance lending protocol Aave says the SEC has closed its investigation into the proje...",
+      "link": "https://decrypt.co/352584/crypto-lending-protocol-aave-says-sec-ended-4-year-investigation",
+      "fuente": "Decrypt",
+      "fecha": "Tue, 16 Dec 2025 19:18:57 +0000"
+    }
+  ],
+  "videos": [
+    {
+      "titulo": "¡¡Los planes SECRETOS DE CRYPTO de Trump EXPUESTOS!!",
+      "id_youtube": "_DHB7aPL2rs",
+      "canal": "Coin Bureau"
+    },
+    {
+      "titulo": "ALTCOINS: ESTO ES MALO... MUY MAL (SOL/ADA/ETH/XRP)",
+      "id_youtube": "8Y-E5MwP5Zw",
+      "canal": "Ivan on Tech"
+    }
+  ]
+}
