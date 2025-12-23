@@ -13,40 +13,57 @@ El sistema ingiere documentación técnica (PDFs/EPUBs), aprende estrategias y e
 
 ## 🏗️ Arquitectura del Sistema
 
-El proyecto sigue una estructura modular:
+El proyecto sigue una estructura modular tipo Monorepo:
 
-| Módulo | Descripción | Tecnologías |
-| :--- | :--- | :--- |
-| **🧠 Inteligencia** | Cerebro del sistema. Contiene agentes, RAG y modelos. | `Python` `LangChain` `ChromaDB` |
-| **⚛️ Interfaz** | Dashboard de control visual en tiempo real. | `React` `Vite` `Tailwind` |
-| **🖥️ Electron** | Empaquetado de escritorio para ejecución nativa. | `Electron.js` |
-| **⚙️ Núcleo** | Servidor API y conectores con el Exchange. | `FastAPI` `WebSockets` |
-| **📚 Conocimiento** | Biblioteca vectorial de documentos ingeridos. | `PDF/Text Processing` |
+| Módulo | Directorio | Descripción | Tecnologías |
+| :--- | :--- | :--- | :--- |
+| **🧠 Inteligencia** | `/inteligencia` | Cerebro del sistema. Contiene agentes, RAG y modelos locales. | `Python` `LangChain` `ChromaDB` `Ollama` |
+| **⚛️ Interfaz** | `/interfaz` | Dashboard de control visual en tiempo real. | `React` `Vite` `Tailwind` |
+| **🖥️ Electron** | `/electron` | Empaquetado de escritorio para ejecución nativa. | `Electron.js` |
+| **⚙️ Núcleo** | `/nucleo` | Servidor API y conectores de mercado. | `FastAPI` `WebSockets` |
+| **📚 Conocimiento** | `/conocimiento` | Biblioteca vectorial de documentos ingeridos. | `PDF Processing` `Embeddings` |
 
 ## 🚀 Instalación y Despliegue
 
-Este es un sistema complejo que requiere entornos de Python y Node.js.
+Este es un sistema complejo que requiere entornos de Python y Node.js configurados.
 
 ### Prerrequisitos
-* Python 3.10+
-* Node.js 18+
-* Clave API de Bitget (configurada en `.env`)
+* **Python 3.10+**
+* **Node.js 18+**
+* **Bitget API Key** (configurada en `.env`)
+* **Ollama** (ejecutándose localmente para los modelos de IA)
 
 ### Pasos rápidos
+
 1. **Clonar el repositorio:**
    ```bash
    git clone [https://github.com/migranitodearenamanuel/Zerox-Core.git](https://github.com/migranitodearenamanuel/Zerox-Core.git)
-2. **Instalar dependencias Python (Cerebro):**
-   ```bash
-   pip install -r requisitos.txt
-3. **Instalar dependencias Interfaz:**
-   ````bash
-   npm install
-4. **Lanzar Sistema: Ejecutar el script maestro en Windows:**
-   ````DOS
-   LANZAR_TODO.bat
-**🛡️ Aviso de Responsabilidad (Disclaimer)**
-Este software es un prototipo de investigación y desarrollo. El trading con criptomonedas conlleva un alto riesgo. Este código se proporciona "tal cual" sin garantías de rentabilidad. El autor no se hace responsable de pérdidas financieras derivadas de su uso.
+Instalar dependencias Python (Cerebro):
+
+Bash
+
+pip install -r requisitos.txt
+Instalar dependencias Interfaz:
+
+Bash
+
+npm install
+Lanzar Sistema: Ejecutar el script maestro en Windows (inicia backend + frontend + electron):
+
+DOS
+
+LANZAR_TODO.bat
+🛠️ Scripts de Utilidad
+El proyecto incluye herramientas de automatización en la raíz:
+
+auto_actualizador.py: Mantiene el sistema al día.
+
+limpieza_emergencia.py: Script de pánico para cerrar procesos o limpiar caché.
+
+verificar_saldo_real.py: Auditoría rápida de conexión con el Exchange.
+
+🛡️ Aviso de Responsabilidad (Disclaimer)
+Este software es un prototipo de investigación y desarrollo avanzado. El trading con criptomonedas conlleva un alto riesgo. Este código se proporciona "tal cual" sin garantías de rentabilidad. El autor no se hace responsable de pérdidas financieras derivadas de su uso.
 
 Desarrollado por Manuel Marco del Pino
 
