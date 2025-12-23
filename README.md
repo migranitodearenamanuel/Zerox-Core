@@ -38,34 +38,27 @@ Este es un sistema complejo que requiere entornos de Python y Node.js configurad
 1. **Clonar el repositorio:**
    ```bash
    git clone [https://github.com/migranitodearenamanuel/Zerox-Core.git](https://github.com/migranitodearenamanuel/Zerox-Core.git)
-Instalar dependencias Python (Cerebro):
+2. **Instalar dependencias Python (Cerebro):**
+   ```bash
+   pip install -r requisitos.txt
+3. **Instalar dependencias Interfaz:**
+   ````bash
+   npm install
+4. **Lanzar Sistema: Ejecutar el script maestro en Windows (inicia backend + frontend + electron):**
+   ````DOS
+   LANZAR_TODO.bat
+## 🛠️ Scripts de Utilidad
 
-Bash
-
-pip install -r requisitos.txt
-Instalar dependencias Interfaz:
-
-Bash
-
-npm install
-Lanzar Sistema: Ejecutar el script maestro en Windows (inicia backend + frontend + electron):
-
-DOS
-
-LANZAR_TODO.bat
-🛠️ Scripts de Utilidad
 El proyecto incluye herramientas de automatización en la raíz:
 
-auto_actualizador.py: Mantiene el sistema al día.
+* `auto_actualizador.py`: Mantiene el sistema al día.
+* `limpieza_emergencia.py`: Script de pánico para cerrar procesos o limpiar caché.
+* `verificar_saldo_real.py`: Auditoría rápida de conexión con el Exchange.
 
-limpieza_emergencia.py: Script de pánico para cerrar procesos o limpiar caché.
+---
 
-verificar_saldo_real.py: Auditoría rápida de conexión con el Exchange.
+## 🛡️ Aviso de Responsabilidad (Disclaimer)
 
-🛡️ Aviso de Responsabilidad (Disclaimer)
-Este software es un prototipo de investigación y desarrollo avanzado. El trading con criptomonedas conlleva un alto riesgo. Este código se proporciona "tal cual" sin garantías de rentabilidad. El autor no se hace responsable de pérdidas financieras derivadas de su uso.
+> Este software es un prototipo de investigación y desarrollo avanzado. El trading con criptomonedas conlleva un alto riesgo. Este código se proporciona "tal cual" sin garantías de rentabilidad. El autor no se hace responsable de pérdidas financieras derivadas de su uso.
 
-Desarrollado por Manuel Marco del Pino
-
-
-¡Con esto, cualquiera que entre verá un proyecto **serio, documentado y técnicamente den
+**Desarrollado por Manuel Marco del Pino**
