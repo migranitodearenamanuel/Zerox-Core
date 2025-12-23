@@ -36,3 +36,19 @@ Este es un sistema complejo que requiere entornos de Python y Node.js.
 1. **Clonar el repositorio:**
    ```bash
    git clone [https://github.com/migranitodearenamanuel/Zerox-Core.git](https://github.com/migranitodearenamanuel/Zerox-Core.git)
+2. **Instalar dependencias Python (Cerebro):**
+   ```bash
+   pip install -r requisitos.txt
+3. **Instalar dependencias Interfaz:**
+   ````bash
+   npm install
+4. **Lanzar Sistema: Ejecutar el script maestro en Windows:**
+   ````DOS
+   LANZAR_TODO.bat
+**🛡️ Aviso de Responsabilidad (Disclaimer)**
+Este software es un prototipo de investigación y desarrollo. El trading con criptomonedas conlleva un alto riesgo. Este código se proporciona "tal cual" sin garantías de rentabilidad. El autor no se hace responsable de pérdidas financieras derivadas de su uso.
+
+Desarrollado por Manuel Marco del Pino
+
+
+¡Con esto, cualquiera que entre verá un proyecto **serio, documentado y técnicamente den
